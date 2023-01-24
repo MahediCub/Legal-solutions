@@ -1,0 +1,16 @@
+.legal-btn {
+    background-color: #B68C5A;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+}
+.bgs{
+  
+}
+.legal-solution-banner{
+  height: 400px;
+  width: 100% !important;
+  background-image: url("../images/donation6.jpg");
+  background-repeat: no-repeat;
+}
