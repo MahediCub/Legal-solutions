@@ -1,3 +1,54 @@
+
+
+/* primary Button Color */
+.legal-btn {
+    background: #B68C5A;
+    border: none;
+    color: #ffff;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+/* Start Header */
+.fav-icon {
+    color: #fff;
+    background-color: #B68C5A;
+    padding: 10px;
+    border-radius: 50%;
+
+}
+
+.legal-colum-2 {
+
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    border: 1px solid #E7E7E7;
+}
+
+.banner {
+    background-image:linear-gradient(180deg, #300404 0%, rgba(21, 20, 20, 0) 100%), url("images/banner\ \(1\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+
+
+
+}
+
+/* End Header */
+/* Start Contact with us */
+.legal-Contact{
+    background: #F3F3F3;
+    padding: 35px;
+    text-align: center;
+
+}
+
+
+
+/* main section */
 .fav-icon{
     color: #fff;
     background-color: #B68C5A;
