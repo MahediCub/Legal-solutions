@@ -26,7 +26,7 @@
 }
 
 .banner {
-    background-image:linear-gradient(180deg, #300404 0%, rgba(21, 20, 20, 0) 100%), url("images/banner\ \(1\).jpg");
+    background-image:url("images/banner\ \(1\).jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
